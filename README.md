@@ -4,10 +4,8 @@ CPE 361 - Computer Graphic
 #### I am a junior student in KMUTT
 I made a project for a laboratory of each subject
 
-Skills: PYTHON / VUE JS / HTML / DJANGO / SQL 
-
 - 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning Computer Graphic, Software Engineering, Python 
+- 🌱 I’m currently learning Computer Graphic
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/massjj)  
